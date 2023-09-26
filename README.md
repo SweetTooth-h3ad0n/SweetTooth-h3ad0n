@@ -1,4 +1,9 @@
-### Hi there 👋
+# Sweet
+<p align="center">
+  <img src="https://github.com/sweettooth-r3ad0n/sweettooth-r3ad0n/blob/main/Gif/SweetTooth.gif" alt="animated"/>
+</p>
+
+$${\color{red}Head-On}$$
 
 <!--
 **sweettooth-r3ad0n/sweettooth-r3ad0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
