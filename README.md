@@ -1,6 +1,6 @@
 # Sweet
 <p align="center">
-  <img src="https://github.com/SweetTooth-h3ad0n/SweetTooth-h3ad0n/blob/main/Gif/SweetTooth.gif" alt="animated"/>
+  <img src="https://github.com/SweetTooth-h3ad0n/SweetTooth-h3ad0n/blob/main/Gif/SweetTooth-IceCreamTruck_v2.gif" alt="animated"/>
 </p>
 
 $${\color{red}Head-On}$$
