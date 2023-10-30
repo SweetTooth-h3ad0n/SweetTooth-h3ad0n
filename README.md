@@ -4,10 +4,13 @@
 </p>
 
 <div align="center">
-  ![](https://img.shields.io/static/v1?label=&message=HeadOn&color=red)
+  ![[sweet]]
 </div>
 
+[sweet]:https://img.shields.io/static/v1?label=&message=HeadOn&color=red
+
 <!--
+![](https://img.shields.io/static/v1?label=&message=HeadOn&color=red)
 $${\color{red}Head-On}$$
 
 **sweettooth-r3ad0n/sweettooth-r3ad0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
