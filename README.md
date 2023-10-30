@@ -1,12 +1,14 @@
 # Sweet
 <p align="center">
   <img src="https://github.com/SweetTooth-h3ad0n/SweetTooth-h3ad0n/blob/main/Gif/SweetTooth-IceCreamTruck_v3.gif" alt="animated"/>
+  <img src="https://img.shields.io/static/v1?label=&message=HeadOn&color=red">
 </p>
 
+<!--
 <h1 align="center" href="" alt="HeadOn" target="_black">
   <img src="https://img.shields.io/static/v1?label=&message=HeadOn&color=red"
 </h1>
-
+-->
 
 <!--
 ![](https://img.shields.io/static/v1?label=&message=HeadOn&color=red)
