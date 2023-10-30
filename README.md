@@ -3,9 +3,11 @@
   <img src="https://github.com/SweetTooth-h3ad0n/SweetTooth-h3ad0n/blob/main/Gif/SweetTooth-IceCreamTruck_v3.gif" alt="animated"/>
 </p>
 
-$${\color{red}Head-On}$$
+ ![]( https://img.shields.io/static/v1?label=&message=HeadOn&color=red )
 
 <!--
+$${\color{red}Head-On}$$
+
 **sweettooth-r3ad0n/sweettooth-r3ad0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
