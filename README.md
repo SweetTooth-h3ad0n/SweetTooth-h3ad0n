@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  ![sweet]
+  ![[sweet][static]]
 </div>
 
 [sweet]:https://img.shields.io/static/v1?label=&message=HeadOn&color=red
