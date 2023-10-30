@@ -3,9 +3,7 @@
   <img src="https://github.com/SweetTooth-h3ad0n/SweetTooth-h3ad0n/blob/main/Gif/SweetTooth-IceCreamTruck_v3.gif" alt="animated"/>
 </p>
 
-<p align="center">
-![]( https://img.shields.io/static/v1?label=&message=HeadOn&color=red)
-</p>
+![alt text]( https://img.shields.io/static/v1?label=&message=HeadOn&color=red)
 
 <!--
 $${\color{red}Head-On}$$
