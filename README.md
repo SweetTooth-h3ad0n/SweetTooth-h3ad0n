@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCRBb4FcsN9uOx5eBpq8l1cA" target="_blank"><img loading="lazy" src="https://img.shields.io/static/v1?label=&message=Head-On&color=red&logo=youtube" target="_blank">
+  <a href="https://www.youtube.com/channel/UCRBb4FcsN9uOx5eBpq8l1cA" target="_blank"><img loading="lazy" src="https://img.shields.io/static/v1?label=&message=HEAD-ON&color=red&logo=youtube" target="_blank">
   </a>
   <!--
   <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
