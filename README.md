@@ -3,8 +3,9 @@
   <img src="https://github.com/SweetTooth-h3ad0n/SweetTooth-h3ad0n/blob/main/Gif/SweetTooth-IceCreamTruck_v3.gif" alt="animated"/>
 </p>
 
-<p align="center" href="" alt="" target="_black">
-  <img src="https://img.shields.io/static/v1?label=&message=HeadOn&color=red"
+<p align="center" href="https://www.youtube.com/channel/UCRBb4FcsN9uOx5eBpq8l1cA" alt="" target="_black">
+  <img src="https://img.shields.io/static/v1?label=&message=Head-On&color=red">
+  <img src="https://www.youtube.com/s/desktop/49f5c987/img/favicon_32x32.png">
 </p>
 
 <!--
