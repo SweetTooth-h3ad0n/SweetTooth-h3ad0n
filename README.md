@@ -4,7 +4,7 @@
 </p>
 
 <p align="center" href="https://img.shields.io/static/v1?label=&message=Head-On&color=red&logo=youtube" alt="HeadOn" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&color=red&logo=youtube&link=https://www.youtube.com/channel/UCRBb4FcsN9uOx5eBpq8l1cA">
+  <img src="https://img.shields.io/static/v1?label=&message=Head-On&link=https://www.youtube.com/channel/UCRBb4FcsN9uOx5eBpq8l1cA&color=red&logo=youtube">
 </p>
 
 <!--
